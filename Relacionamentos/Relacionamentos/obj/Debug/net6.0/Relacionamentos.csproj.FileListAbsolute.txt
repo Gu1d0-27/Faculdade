@@ -1,0 +1,8 @@
+C:\Users\2021102375.ACADEMICOUGB\source\repos\Relacionamentos\Relacionamentos\obj\Debug\net6.0\Relacionamentos.csproj.AssemblyReference.cache
+C:\Users\2021102375.ACADEMICOUGB\source\repos\Relacionamentos\Relacionamentos\obj\Debug\net6.0\Relacionamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2021102375.ACADEMICOUGB\source\repos\Relacionamentos\Relacionamentos\obj\Debug\net6.0\Relacionamentos.AssemblyInfoInputs.cache
+C:\Users\2021102375.ACADEMICOUGB\source\repos\Relacionamentos\Relacionamentos\obj\Debug\net6.0\Relacionamentos.AssemblyInfo.cs
+C:\Users\2021102375.ACADEMICOUGB\source\repos\Relacionamentos\Relacionamentos\obj\Debug\net6.0\Relacionamentos.csproj.CoreCompileInputs.cache
+C:\Users\2021102375.ACADEMICOUGB\source\repos\Relacionamentos\Relacionamentos\obj\Debug\net6.0\Relacionamentos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2021102375.ACADEMICOUGB\source\repos\Relacionamentos\Relacionamentos\obj\Debug\net6.0\Relacionamentos.RazorAssemblyInfo.cache
+C:\Users\2021102375.ACADEMICOUGB\source\repos\Relacionamentos\Relacionamentos\obj\Debug\net6.0\Relacionamentos.RazorAssemblyInfo.cs
